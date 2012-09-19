@@ -22,21 +22,6 @@
     <groupTables value="false" />
   </component>
   <component name="DebuggerManager">
-    <line_breakpoints>
-      <breakpoint url="file://$PROJECT_DIR$/src/main/java/com/itransition/core/CreateIssue.java" line="112" class="com.itransition.core.CreateIssue" package="com.itransition.core">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="false" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-    </line_breakpoints>
     <breakpoint_any>
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -77,82 +62,70 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="CreateIssue.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/itransition/core/CreateIssue.java">
+      <file leaf-file-name="NavisionDao.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/dao/NavisionDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="94" column="119" selection-start="4360" selection-end="4360" vertical-scroll-proportion="0.73110723">
+            <state line="34" column="5" selection-start="1008" selection-end="1008" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#3127#3133#0" expanded="true" />
-                <element signature="e#3251#3257#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NavisionDao.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/itransition/dao/NavisionDao.java">
+      <file leaf-file-name="NavisionService.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/service/NavisionService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="43" selection-start="458" selection-end="458" vertical-scroll-proportion="0.0">
+            <state line="19" column="36" selection-start="440" selection-end="440" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NavisionDaoTest.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/dao/NavisionDaoTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="40" column="51" selection-start="1116" selection-end="1116" vertical-scroll-proportion="0.61731845">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Navision.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/model/Navision.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="46" column="22" selection-start="970" selection-end="970" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test-gadget.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/test-gadget.xml">
+      <file leaf-file-name="HibernateUtil.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/core/HibernateUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="42" selection-start="533" selection-end="534" vertical-scroll-proportion="0.0">
-              <folding>
-                <marker date="1347904211721" expanded="true" signature="1470:1581" placeholder="..." />
-                <marker date="1347904211721" expanded="true" signature="1696:1793" placeholder="..." />
-                <marker date="1347904211721" expanded="true" signature="1728:1777" placeholder="{...}" />
-                <marker date="1347904211721" expanded="true" signature="1834:4880" placeholder="..." />
-                <marker date="1347904211721" expanded="true" signature="1861:4859" placeholder="{...}" />
-                <marker date="1347904211721" expanded="true" signature="1903:4842" placeholder="{&quot;baseUrl&quot;: &quot;__ATLASSIAN_BASE_URL__&quot;...}" />
-                <marker date="1347904211721" expanded="true" signature="2083:3241" placeholder="{...}" />
-                <marker date="1347904211721" expanded="true" signature="2136:2808" placeholder="{...}" />
-                <marker date="1347904211721" expanded="true" signature="2501:2781" placeholder="{&quot;theme&quot;: &quot;long-label&quot;...}" />
-                <marker date="1347904211721" expanded="true" signature="2595:2751" placeholder="[...]" />
-                <marker date="1347904211721" expanded="true" signature="2889:3217" placeholder="{...}" />
-                <marker date="1347904211721" expanded="true" signature="2926:3190" placeholder="[...]" />
-                <marker date="1347904211721" expanded="true" signature="2960:3158" placeholder="{&quot;key&quot;: &quot;projectOptions&quot;...}" />
-                <marker date="1347904211721" expanded="true" signature="3268:4824" placeholder="{&quot;onResizeAdjustHeight&quot;: true...}" />
-                <marker date="1347904211721" expanded="true" signature="3413:4134" placeholder="{...}" />
-                <marker date="1347904211721" expanded="true" signature="4165:4801" placeholder="[...]" />
-                <marker date="1347904211721" expanded="true" signature="4195:4775" placeholder="{&quot;key&quot;: &quot;issue&quot;...}" />
-                <marker date="1347904211721" expanded="true" signature="4298:4744" placeholder="{...}" />
-                <marker date="1347904211721" expanded="true" signature="4342:4710" placeholder="{&quot;url&quot;: &quot;/rest/jira-integration-with-navision/1.0/jira-integration-with-navision/createIssue&quot;...}" />
-                <marker date="1347904211721" expanded="true" signature="4520:4672" placeholder="{...}" />
-                <marker date="1347904211721" expanded="true" signature="4912:7593" placeholder="..." />
-                <marker date="1347904211721" expanded="true" signature="4932:4981" placeholder="{...}" />
-                <marker date="1347904211721" expanded="true" signature="5016:5092" placeholder="{...}" />
-                <marker date="1347904211721" expanded="true" signature="5128:5202" placeholder="{...}" />
-                <marker date="1347904211721" expanded="true" signature="5239:5313" placeholder="{...}" />
-                <marker date="1347904211721" expanded="true" signature="5345:5421" placeholder="{...}" />
-                <marker date="1347904211721" expanded="true" signature="5454:5526" placeholder="{...}" />
-                <marker date="1347904211721" expanded="true" signature="5560:5635" placeholder="{...}" />
-                <marker date="1347904211721" expanded="true" signature="5656:6019" placeholder="{...}" />
-                <marker date="1347904211721" expanded="true" signature="6039:6277" placeholder="{...}" />
-                <marker date="1347904211721" expanded="true" signature="6413:6512" placeholder="{...}" />
-                <marker date="1347904211721" expanded="true" signature="6533:6582" placeholder="{...}" />
-                <marker date="1347904211721" expanded="true" signature="6609:7366" placeholder="{...}" />
-                <marker date="1347904211721" expanded="true" signature="6734:6781" placeholder="/*...*/" />
-                <marker date="1347904211721" expanded="true" signature="6903:6943" placeholder="/*...*/" />
-                <marker date="1347904211721" expanded="true" signature="7033:7068" placeholder="/*...*/" />
-                <marker date="1347904211721" expanded="true" signature="7203:7232" placeholder="/*...*/" />
-                <marker date="1347904211721" expanded="true" signature="7385:7436" placeholder="{...}" />
-                <marker date="1347904211721" expanded="true" signature="7451:7494" placeholder="{...}" />
-                <marker date="1347904211721" expanded="true" signature="7516:7577" placeholder="{...}" />
-              </folding>
+            <state line="14" column="23" selection-start="395" selection-end="395" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/itransition/core/Main.java">
+      <file leaf-file-name="hibernate.cfg.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hibernate.cfg.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="11" selection-start="558" selection-end="1097" vertical-scroll-proportion="0.0">
+            <state line="28" column="44" selection-start="1265" selection-end="1265" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="172" column="5" selection-start="6626" selection-end="6626" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -168,12 +141,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/resource/Navision.hbm.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/itransition/core/HibernateUtil.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/itransition/model/Navision.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/itransition/HibernateUtil.java" />
-        <option value="$PROJECT_DIR$/src/main/resource/hibernate.cfg.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/itransition/core/Main.java" />
         <option value="$PROJECT_DIR$/src/main/resources/i18n/i18n.properties" />
         <option value="$PROJECT_DIR$/src/main/resources/i18n/ALL.xml" />
@@ -181,6 +148,15 @@
         <option value="$PROJECT_DIR$/src/main/resources/test-gadget.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/itransition/core/CreateIssue.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/itransition/dao/NavisionDao.java" />
+        <option value="$PROJECT_DIR$/src/test/java/dao/NavisionDaoTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/core/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hibernate.cfg.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/model/Navision.java" />
+        <option value="$PROJECT_DIR$/src/main/java/core/HibernateUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dao/NavisionDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/service/NavisionService.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/dao/NavisionDaoTest.java" />
       </list>
     </option>
   </component>
@@ -188,8 +164,8 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="C:\Users\v.hudnitsky\.m2\repository" />
-        <option name="mavenHome" value="D:\dev\jira\atlassian-plugin-sdk-3.11\apache-maven" />
-        <option name="userSettingsFile" value="D:\dev\jira\atlassian-plugin-sdk-3.11\apache-maven\conf\settings.xml" />
+        <option name="mavenHome" value="D:\atlassian-plugin-sdk-3.11\apache-maven" />
+        <option name="userSettingsFile" value="D:\atlassian-plugin-sdk-3.11\apache-maven\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -210,23 +186,9 @@
           <option name="myItemId" value="qa-jira-plugin" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
         </PATH_ELEMENT>
-      </PATH>
-      <PATH>
         <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="qa-jira-plugin" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Plugins" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginsNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="jira" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginNode" />
+          <option name="myItemId" value="Dependencies" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependenciesNode" />
         </PATH_ELEMENT>
       </PATH>
       <PATH>
@@ -237,10 +199,6 @@
         <PATH_ELEMENT>
           <option name="myItemId" value="qa-jira-plugin" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Plugins" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginsNode" />
         </PATH_ELEMENT>
       </PATH>
       <PATH>
@@ -266,10 +224,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1696" />
-    <option name="height" value="1026" />
+    <option name="x" value="-5" />
+    <option name="y" value="-5" />
+    <option name="width" value="1376" />
+    <option name="height" value="748" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -318,6 +276,20 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jira-integration-with-navision" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jira-integration-with-navision" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -332,7 +304,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="jira-integration-with-navision" />
+              <option name="myItemId" value="xPutnikx-HibernateJpaTemplate-1ce77a9" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -342,21 +314,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="jira-integration-with-navision" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jira-integration-with-navision" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jira-integration-with-navision" />
+              <option name="myItemId" value="xPutnikx-HibernateJpaTemplate-1ce77a9" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -364,11 +322,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
+              <option name="myItemId" value="test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -378,7 +332,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="jira-integration-with-navision" />
+              <option name="myItemId" value="xPutnikx-HibernateJpaTemplate-1ce77a9" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -391,92 +345,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="i18n" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jira-integration-with-navision" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jira-integration-with-navision" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="itransition" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jira-integration-with-navision" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jira-integration-with-navision" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="itransition" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="model" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jira-integration-with-navision" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jira-integration-with-navision" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="itransition" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -490,7 +358,29 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="xPutnikx-HibernateJpaTemplate-1ce77a9" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
               <option name="myItemId" value="jira-integration-with-navision" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xPutnikx-HibernateJpaTemplate-1ce77a9" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -506,7 +396,81 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="itransition" />
+              <option name="myItemId" value="service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jira-integration-with-navision" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xPutnikx-HibernateJpaTemplate-1ce77a9" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="model" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jira-integration-with-navision" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xPutnikx-HibernateJpaTemplate-1ce77a9" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jira-integration-with-navision" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xPutnikx-HibernateJpaTemplate-1ce77a9" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -516,7 +480,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope">
         <subPane subId="Project Files">
           <PATH>
@@ -530,14 +493,20 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/resources" />
     <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit3" />
+    <property name="project.structure.proportion" value="0.0" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="options.lastSelected" value="MavenSettings" />
     <property name="recentsLimit" value="5" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="options.splitter.details.proportions" value="0.2" />
@@ -545,14 +514,23 @@
     <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="dao" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\dev\jira-integration-with-navision\src\main\resources" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\java program\xPutnikx-HibernateJpaTemplate-1ce77a9 (1)\xPutnikx-HibernateJpaTemplate-1ce77a9\src\main\resources" />
+      <recent name="D:\java program\xPutnikx-HibernateJpaTemplate-1ce77a9 (1)\xPutnikx-HibernateJpaTemplate-1ce77a9\src\test\java" />
+      <recent name="D:\java program\xPutnikx-HibernateJpaTemplate-1ce77a9 (1)\xPutnikx-HibernateJpaTemplate-1ce77a9\src\main\java" />
       <recent name="D:\dev\jira-integration-with-navision\src\main" />
     </key>
   </component>
-  <component name="RunManager" selected="Remote.local">
+  <component name="RunManager" selected="JUnit.NavisionDaoTest">
     <configuration default="false" name="NavisionDao" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -560,7 +538,7 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.itransition.dao.NavisionDao" />
+      <option name="MAIN_CLASS_NAME" value="dao.NavisionDao" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -581,19 +559,43 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.itransition.core.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.itransition.core.Main" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    <configuration default="false" name="NavisionDaoTest" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="jira-integration-with-navision" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="dao" />
+      <option name="MAIN_CLASS_NAME" value="dao.NavisionDaoTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="core.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
@@ -623,6 +625,7 @@
             <option name="localRepository" value="C:\Users\v.hudnitsky\.m2\repository" />
             <option name="mavenHome" value="D:\dev\jira\atlassian-plugin-sdk-3.11\apache-maven" />
             <option name="nonRecursive" value="false" />
+            <option name="outputLevel" value="INFO" />
             <option name="pluginUpdatePolicy" value="DO_NOT_UPDATE" />
             <option name="printErrorStackTraces" value="false" />
             <option name="snapshotUpdatePolicy" value="ALWAYS_UPDATE" />
@@ -676,24 +679,6 @@
         <option name="Maven.BeforeRunTask" enabled="false" />
       </method>
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method>
-        <option name="AntTarget" enabled="false" />
-        <option name="BuildArtifacts" enabled="false" />
-        <option name="Make" enabled="true" />
-        <option name="Maven.BeforeRunTask" enabled="false" />
-      </method>
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -720,6 +705,24 @@
       <envs />
       <properties />
       <listeners />
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method>
         <option name="AntTarget" enabled="false" />
         <option name="BuildArtifacts" enabled="false" />
@@ -787,10 +790,11 @@
       <ConfigurationWrapper RunnerId="Debug" />
       <method />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Application.NavisionDao" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="2" class="java.lang.String" itemvalue="Remote.local" />
+      <item index="1" class="java.lang.String" itemvalue="Remote.local" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.NavisionDaoTest" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Main" />
     </list>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
@@ -798,7 +802,7 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
-  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false">
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false">
     <option name="USER" value="" />
     <option name="PASSWORD" value="" />
     <option name="mySSHConnectionTimeout" value="30000" />
@@ -813,6 +817,7 @@
     <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
     <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
     <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
     <configuration useDefault="true">C:\Users\v.hudnitsky\AppData\Roaming\Subversion</configuration>
     <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
   </component>
@@ -845,31 +850,32 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <frame x="-5" y="-5" width="1376" height="748" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32986537" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2990762" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29697987" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32885906" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290993" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Analysis" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12438726" sideWeight="0.7009238" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23842065" sideWeight="0.6795302" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24754901" sideWeight="0.7009238" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32332563" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24753226" sideWeight="0.6795302" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3204698" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32986537" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290993" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290993" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3995381" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -967,137 +973,148 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/.m2/repository/com/atlassian/gzipfilter/atlassian-gzipfilter/1.9/atlassian-gzipfilter-1.9-sources.jar!/com/atlassian/gzipfilter/GzipFilter.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hibernate.cfg.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="0" selection-start="2116" selection-end="2116" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/com/atlassian/core/atlassian-core/4.6.0/atlassian-core-4.6.0-sources.jar!/com/atlassian/core/filters/cache/AbstractCachingFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="0" selection-start="1220" selection-end="1220" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/com/atlassian/core/atlassian-core/4.6.0/atlassian-core-4.6.0-sources.jar!/com/atlassian/core/filters/encoding/AbstractEncodingFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="0" selection-start="1922" selection-end="1922" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/com/atlassian/jira/atlassian-jira/5.0.1/atlassian-jira-5.0.1.jar!/com/atlassian/jira/web/filters/PathMatchingEncodingFilter.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="16" selection-start="678" selection-end="678" vertical-scroll-proportion="-8.84" />
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/com/atlassian/jira/atlassian-jira/5.0.1/atlassian-jira-5.0.1.jar!/com/atlassian/jira/web/monitor/ActiveRequestsFilter.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="16" selection-start="1288" selection-end="1288" vertical-scroll-proportion="0.77803206" />
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/com/atlassian/core/atlassian-core/4.6.0/atlassian-core-4.6.0-sources.jar!/com/atlassian/core/filters/AbstractHttpFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="0" selection-start="1158" selection-end="1158" vertical-scroll-proportion="0.33333334" />
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/com/atlassian/jira/atlassian-jira/5.0.1/atlassian-jira-5.0.1.jar!/com/atlassian/jira/web/filters/steps/ChainedFilterStepRunner.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="16" selection-start="672" selection-end="672" vertical-scroll-proportion="0.58352405" />
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/com/atlassian/plugins/atlassian-plugins-servlet/2.10.1/atlassian-plugins-servlet-2.10.1-sources.jar!/com/atlassian/plugin/servlet/filter/ServletFilterModuleContainerFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="0" selection-start="2829" selection-end="2829" vertical-scroll-proportion="0.3195021" />
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/com/atlassian/plugins/atlassian-plugins-servlet/2.10.1/atlassian-plugins-servlet-2.10.1-sources.jar!/com/atlassian/plugin/servlet/filter/IteratingFilterChain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="0" selection-start="1584" selection-end="1584" vertical-scroll-proportion="0.75959593" />
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/com/atlassian/plugins/atlassian-plugins-servlet/2.10.1/atlassian-plugins-servlet-2.10.1-sources.jar!/com/atlassian/plugin/servlet/filter/DelegatingPluginFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="77" column="0" selection-start="2705" selection-end="2705" vertical-scroll-proportion="0.33195022" />
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/com/atlassian/jira/atlassian-jira/5.0.1/atlassian-jira-5.0.1.jar!/com/atlassian/jira/issue/IssueManager.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="80" column="35" selection-start="4319" selection-end="4319" vertical-scroll-proportion="0.3501094" />
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.6.0_25/src.zip!/java/sql/Timestamp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="13" selection-start="2336" selection-end="2336" vertical-scroll-proportion="0.33236995" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itransition/core/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="11" selection-start="558" selection-end="1097" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/test-gadget.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="42" selection-start="533" selection-end="534" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1347904211721" expanded="true" signature="1470:1581" placeholder="..." />
-            <marker date="1347904211721" expanded="true" signature="1696:1793" placeholder="..." />
-            <marker date="1347904211721" expanded="true" signature="1728:1777" placeholder="{...}" />
-            <marker date="1347904211721" expanded="true" signature="1834:4880" placeholder="..." />
-            <marker date="1347904211721" expanded="true" signature="1861:4859" placeholder="{...}" />
-            <marker date="1347904211721" expanded="true" signature="1903:4842" placeholder="{&quot;baseUrl&quot;: &quot;__ATLASSIAN_BASE_URL__&quot;...}" />
-            <marker date="1347904211721" expanded="true" signature="2083:3241" placeholder="{...}" />
-            <marker date="1347904211721" expanded="true" signature="2136:2808" placeholder="{...}" />
-            <marker date="1347904211721" expanded="true" signature="2501:2781" placeholder="{&quot;theme&quot;: &quot;long-label&quot;...}" />
-            <marker date="1347904211721" expanded="true" signature="2595:2751" placeholder="[...]" />
-            <marker date="1347904211721" expanded="true" signature="2889:3217" placeholder="{...}" />
-            <marker date="1347904211721" expanded="true" signature="2926:3190" placeholder="[...]" />
-            <marker date="1347904211721" expanded="true" signature="2960:3158" placeholder="{&quot;key&quot;: &quot;projectOptions&quot;...}" />
-            <marker date="1347904211721" expanded="true" signature="3268:4824" placeholder="{&quot;onResizeAdjustHeight&quot;: true...}" />
-            <marker date="1347904211721" expanded="true" signature="3413:4134" placeholder="{...}" />
-            <marker date="1347904211721" expanded="true" signature="4165:4801" placeholder="[...]" />
-            <marker date="1347904211721" expanded="true" signature="4195:4775" placeholder="{&quot;key&quot;: &quot;issue&quot;...}" />
-            <marker date="1347904211721" expanded="true" signature="4298:4744" placeholder="{...}" />
-            <marker date="1347904211721" expanded="true" signature="4342:4710" placeholder="{&quot;url&quot;: &quot;/rest/jira-integration-with-navision/1.0/jira-integration-with-navision/createIssue&quot;...}" />
-            <marker date="1347904211721" expanded="true" signature="4520:4672" placeholder="{...}" />
-            <marker date="1347904211721" expanded="true" signature="4912:7593" placeholder="..." />
-            <marker date="1347904211721" expanded="true" signature="4932:4981" placeholder="{...}" />
-            <marker date="1347904211721" expanded="true" signature="5016:5092" placeholder="{...}" />
-            <marker date="1347904211721" expanded="true" signature="5128:5202" placeholder="{...}" />
-            <marker date="1347904211721" expanded="true" signature="5239:5313" placeholder="{...}" />
-            <marker date="1347904211721" expanded="true" signature="5345:5421" placeholder="{...}" />
-            <marker date="1347904211721" expanded="true" signature="5454:5526" placeholder="{...}" />
-            <marker date="1347904211721" expanded="true" signature="5560:5635" placeholder="{...}" />
-            <marker date="1347904211721" expanded="true" signature="5656:6019" placeholder="{...}" />
-            <marker date="1347904211721" expanded="true" signature="6039:6277" placeholder="{...}" />
-            <marker date="1347904211721" expanded="true" signature="6413:6512" placeholder="{...}" />
-            <marker date="1347904211721" expanded="true" signature="6533:6582" placeholder="{...}" />
-            <marker date="1347904211721" expanded="true" signature="6609:7366" placeholder="{...}" />
-            <marker date="1347904211721" expanded="true" signature="6734:6781" placeholder="/*...*/" />
-            <marker date="1347904211721" expanded="true" signature="6903:6943" placeholder="/*...*/" />
-            <marker date="1347904211721" expanded="true" signature="7033:7068" placeholder="/*...*/" />
-            <marker date="1347904211721" expanded="true" signature="7203:7232" placeholder="/*...*/" />
-            <marker date="1347904211721" expanded="true" signature="7385:7436" placeholder="{...}" />
-            <marker date="1347904211721" expanded="true" signature="7451:7494" placeholder="{...}" />
-            <marker date="1347904211721" expanded="true" signature="7516:7577" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itransition/dao/NavisionDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="43" selection-start="458" selection-end="458" vertical-scroll-proportion="0.0">
+        <state line="28" column="44" selection-start="1265" selection-end="1265" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itransition/core/CreateIssue.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/Navision.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="94" column="119" selection-start="4360" selection-end="4360" vertical-scroll-proportion="0.73110723">
+        <state line="46" column="22" selection-start="970" selection-end="970" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="172" column="5" selection-start="6626" selection-end="6626" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/core/HibernateUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="23" selection-start="395" selection-end="395" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dao/NavisionDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="5" selection-start="1008" selection-end="1008" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#3127#3133#0" expanded="true" />
-            <element signature="e#3251#3257#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/service/NavisionService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="36" selection-start="440" selection-end="440" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/dao/NavisionDaoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="51" selection-start="1116" selection-end="1116" vertical-scroll-proportion="0.61731845">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Invalid</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>algs4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>jira-integration-with-navision</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
 
